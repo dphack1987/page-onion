@@ -199,7 +199,7 @@ export default function GeoTrackerService() {
         <div className="text-center">
           <h2 className="text-2xl font-bold mb-4">Contacta Ahora</h2>
           <p className="text-gray-400 mb-8">Obtén acceso al sistema de rastreo más avanzado del mercado</p>
-          <p className="text-red-500 font-bold text-lg">dphack-profesional@proton.me</p>
+          <p className="text-red-500 font-bold text-lg">dphack-services@proton.me</p>
         </div>
       </div>
     </main>

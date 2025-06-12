@@ -5,7 +5,7 @@ export const en = {
     criticalInfo: {
       title: "Critical Information",
       payments: "Payments exclusively in Bitcoin",
-      communication: "Secure communication: dphack-profesional@proton.me",
+      communication: "Secure communication: dphack-services@proton.me",
       anonymity: "Guaranteed anonymity",
       support: "24/7 encrypted email support"
     }
@@ -101,6 +101,6 @@ export const en = {
   },
   footer: {
     rights: "© 2024 DPhack Services. All rights reserved.",
-    email: "dphack-profesional@proton.me"
+    email: "dphack-services@proton.me"
   }
 };

@@ -151,7 +151,7 @@ export default function DDoSService() {
             <div>
               <h3 className="text-xl font-semibold mb-4">Comunicación</h3>
               <ul className="text-gray-400 space-y-2">
-                <li>• Email: dphack-profesional@proton.me</li>
+                <li>• Email: dphack-services@proton.me</li>
                 <li>• Comunicación cifrada</li>
                 <li>• Sin registros de actividad</li>
               </ul>
@@ -170,7 +170,7 @@ export default function DDoSService() {
         <div className="text-center">
           <h2 className="text-2xl font-bold mb-4">Inicia tu Ataque</h2>
           <p className="text-gray-400 mb-8">Contacta ahora para comenzar tu ataque DDoS</p>
-          <p className="text-blue-400 font-bold">dphack-profesional@proton.me</p>
+          <p className="text-blue-400 font-bold">dphack-services@proton.me</p>
         </div>
       </div>
     </main>

@@ -214,7 +214,7 @@ export default function VeridiaService() {
         <div className="text-center">
           <h2 className="text-2xl font-bold mb-4">Inicia el Control Mental</h2>
           <p className="text-gray-400 mb-8">Contacta para una consulta personalizada sobre tu caso</p>
-          <p className="text-red-500 font-bold text-lg">dphack-profesional@proton.me</p>
+          <p className="text-red-500 font-bold text-lg">dphack-services@proton.me</p>
         </div>
       </div>
     </main>

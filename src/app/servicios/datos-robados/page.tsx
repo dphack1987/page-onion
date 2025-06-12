@@ -84,7 +84,7 @@ export default function DatosRobados() {
             <div>
               <h3 className="text-xl font-semibold mb-4">Proceso de Compra</h3>
               <ol className="text-gray-400 space-y-2 list-decimal pl-4">
-                <li>Contacta vía email: dphack-profesional@proton.me</li>
+                <li>Contacta vía email: dphack-services@proton.me</li>
                 <li>Especifica el paquete deseado</li>
                 <li>Recibirás la wallet de Bitcoin para el pago</li>
                 <li>Envía comprobante de pago</li>
@@ -124,7 +124,7 @@ export default function DatosRobados() {
         <div className="text-center">
           <h2 className="text-2xl font-bold mb-4">¿Listo para comenzar?</h2>
           <p className="text-gray-400 mb-8">Contacta ahora y obtén acceso a datos exclusivos</p>
-          <p className="text-blue-400 font-bold">dphack-profesional@proton.me</p>
+          <p className="text-blue-400 font-bold">dphack-services@proton.me</p>
         </div>
       </div>
     </main>

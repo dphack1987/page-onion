@@ -112,7 +112,7 @@ export default function Home() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    const mailtoLink = `mailto:dphack-profesional@proton.me?subject=Consulta Segura&body=${encodeURIComponent(
+    const mailtoLink = `mailto:dphack-services@proton.me?subject=Consulta Segura&body=${encodeURIComponent(
       `Nombre: ${formData.name}\nEmail: ${formData.email}\n\nMensaje:\n${formData.message}`
     )}`;
     window.location.href = mailtoLink;
